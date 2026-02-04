@@ -233,6 +233,6 @@ git push -u origin main
 ---
 
 ## 课后练习
-完成练习题 35-36（见 [exercises.md](exercises.md)）
+完成练习（见 [exercises.md](exercises.md)）
 
 ---

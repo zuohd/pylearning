@@ -268,6 +268,6 @@ def get_random_proxy():
 ---
 
 ## 课后练习
-完成练习题 7-9（见 [exercises.md](exercises.md)）
+完成练习（见 [exercises.md](exercises.md)）
 
 ---

@@ -217,6 +217,6 @@ print(director_counts)
 ---
 
 ## 课后练习
-完成练习题 16-18（见 [exercises.md](exercises.md)）
+完成练习（见 [exercises.md](exercises.md)）
 
 ---

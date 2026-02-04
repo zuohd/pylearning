@@ -244,7 +244,7 @@ Go 进阶方向：
 ---
 
 ## 课后练习
-完成练习题 37-38（见 [exercises.md](exercises.md)）
+完成练习（见 [exercises.md](exercises.md)）
 
 ---
 

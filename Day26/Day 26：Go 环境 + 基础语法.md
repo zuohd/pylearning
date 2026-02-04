@@ -339,6 +339,6 @@ func main() {
 ---
 
 ## 课后练习
-完成练习题 26-28（见 [exercises.md](exercises.md)）
+完成练习（见 [exercises.md](exercises.md)）
 
 ---

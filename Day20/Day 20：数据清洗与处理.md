@@ -219,6 +219,6 @@ outliers = df[(df['score'] < lower_bound) | (df['score'] > upper_bound)]
 ---
 
 ## 课后练习
-完成练习题 13-15（见 [exercises.md](exercises.md)）
+完成练习（见 [exercises.md](exercises.md)）
 
 ---
