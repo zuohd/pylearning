@@ -153,5 +153,5 @@ def update_status(user_id):
 
 ---
 
-**恭喜完成 15 天 Python 后端学习！**
+**15 天 Python 后端学习完成**
 
