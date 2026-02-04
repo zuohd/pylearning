@@ -370,6 +370,6 @@ func main() {
 ---
 
 ## 课后练习
-完成练习题 29-31（见 [phase2_exercises.md](phase2_exercises.md#day-27-练习题go-函数--struct)）
+完成练习题 29-31（见 [exercises.md](exercises.md)）
 
 ---

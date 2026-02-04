@@ -233,6 +233,6 @@ git push -u origin main
 ---
 
 ## 课后练习
-完成练习题 35-36（见 [phase2_exercises.md](phase2_exercises.md#day-29-练习题项目整理)）
+完成练习题 35-36（见 [exercises.md](exercises.md)）
 
 ---

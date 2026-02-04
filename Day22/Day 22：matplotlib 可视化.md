@@ -235,6 +235,6 @@ plt.show()
 ---
 
 ## 课后练习
-完成练习题 19-21（见 [phase2_exercises.md](phase2_exercises.md#day-22-练习题matplotlib-可视化)）
+完成练习题 19-21（见 [exercises.md](exercises.md)）
 
 ---

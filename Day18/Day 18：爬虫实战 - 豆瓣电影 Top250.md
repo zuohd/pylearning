@@ -268,6 +268,6 @@ def get_random_proxy():
 ---
 
 ## 课后练习
-完成练习题 7-9（见 [phase2_exercises.md](phase2_exercises.md#day-18-练习题爬虫实战)）
+完成练习题 7-9（见 [exercises.md](exercises.md)）
 
 ---

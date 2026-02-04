@@ -255,6 +255,6 @@ if new_quotes:
 ---
 
 ## 课后练习
-完成练习题 4-6（见 [phase2_exercises.md](phase2_exercises.md#day-17-练习题翻页爬取--数据存储)）
+完成练习题 4-6（见 [exercises.md](exercises.md)）
 
 ---

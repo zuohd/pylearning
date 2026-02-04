@@ -217,6 +217,6 @@ print(director_counts)
 ---
 
 ## 课后练习
-完成练习题 16-18（见 [phase2_exercises.md](phase2_exercises.md#day-21-练习题数据统计与分组)）
+完成练习题 16-18（见 [exercises.md](exercises.md)）
 
 ---

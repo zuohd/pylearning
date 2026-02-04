@@ -244,7 +244,7 @@ Go 进阶方向：
 ---
 
 ## 课后练习
-完成练习题 37-38（见 [phase2_exercises.md](phase2_exercises.md#day-30-练习题交付自学资料--总结)）
+完成练习题 37-38（见 [exercises.md](exercises.md)）
 
 ---
 

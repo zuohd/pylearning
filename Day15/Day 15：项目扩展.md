@@ -149,7 +149,7 @@ def update_status(user_id):
 ---
 
 ## 课后练习
-完成练习题 26-28（见 [exercises.md](day15_exercises)）
+完成练习题 26-28（见 [exercises.md](exercises.md)）
 
 ---
 

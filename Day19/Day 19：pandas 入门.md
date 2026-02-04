@@ -210,6 +210,6 @@ print(df)
 ---
 
 ## 课后练习
-完成练习题 10-12（见 [phase2_exercises.md](phase2_exercises.md#day-19-练习题pandas-入门)）
+完成练习题 10-12（见 [exercises.md](exercises.md)）
 
 ---

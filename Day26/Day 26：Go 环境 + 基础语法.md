@@ -339,6 +339,6 @@ func main() {
 ---
 
 ## 课后练习
-完成练习题 26-28（见 [phase2_exercises.md](phase2_exercises.md#day-26-练习题go-环境--基础语法)）
+完成练习题 26-28（见 [exercises.md](exercises.md)）
 
 ---

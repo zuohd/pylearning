@@ -216,6 +216,6 @@ if __name__ == '__main__':
 ---
 
 ## 课后练习
-完成练习题 1-3（见 [phase2_exercises.md](phase2_exercises.md#day-16-练习题requests--beautifulsoup)）
+完成练习题 1-3（见 [exercises.md](exercises.md)）
 
 ---

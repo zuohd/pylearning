@@ -239,6 +239,6 @@ if __name__ == '__main__':
 ---
 
 ## 课后练习
-完成练习题 22-23（见 [phase2_exercises.md](phase2_exercises.md#day-23-练习题完整数据分析报告)）
+完成练习题 22-23（见 [exercises.md](exercises.md)）
 
 ---
